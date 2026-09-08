@@ -1,0 +1,15 @@
+/home/heroeshunter/Projeto-de-lgebra/projeto/bin/Debug/net10.0/projeto
+/home/heroeshunter/Projeto-de-lgebra/projeto/bin/Debug/net10.0/projeto.deps.json
+/home/heroeshunter/Projeto-de-lgebra/projeto/bin/Debug/net10.0/projeto.runtimeconfig.json
+/home/heroeshunter/Projeto-de-lgebra/projeto/bin/Debug/net10.0/projeto.dll
+/home/heroeshunter/Projeto-de-lgebra/projeto/bin/Debug/net10.0/projeto.pdb
+/home/heroeshunter/Projeto-de-lgebra/projeto/obj/Debug/net10.0/projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/heroeshunter/Projeto-de-lgebra/projeto/obj/Debug/net10.0/projeto.AssemblyInfoInputs.cache
+/home/heroeshunter/Projeto-de-lgebra/projeto/obj/Debug/net10.0/projeto.AssemblyInfo.cs
+/home/heroeshunter/Projeto-de-lgebra/projeto/obj/Debug/net10.0/projeto.csproj.CoreCompileInputs.cache
+/home/heroeshunter/Projeto-de-lgebra/projeto/obj/Debug/net10.0/projeto.sourcelink.json
+/home/heroeshunter/Projeto-de-lgebra/projeto/obj/Debug/net10.0/projeto.dll
+/home/heroeshunter/Projeto-de-lgebra/projeto/obj/Debug/net10.0/refint/projeto.dll
+/home/heroeshunter/Projeto-de-lgebra/projeto/obj/Debug/net10.0/projeto.pdb
+/home/heroeshunter/Projeto-de-lgebra/projeto/obj/Debug/net10.0/projeto.genruntimeconfig.cache
+/home/heroeshunter/Projeto-de-lgebra/projeto/obj/Debug/net10.0/ref/projeto.dll
